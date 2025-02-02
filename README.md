@@ -20,4 +20,8 @@ Ensure you have Python installed along with the required libraries:
 
 ```bash
 pip install torch numpy pandas matplotlib seaborn transformers scikit-learn
+```
+# OUTPUTS
+* 102203339_topsis_result:Contains the ranking results.*
+* 102203339_topsis_graph.png: A visualization of the ranking*
 
