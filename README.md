@@ -1,15 +1,15 @@
 # Topsis-for-pretrained-models
-Chatbot Model Evaluation using TOPSIS
+# Chatbot Model Evaluation using TOPSIS
 
-Overview
+# Overview
 
-This project evaluates different chatbot models using the TOPSIS ranking method based on three key factors:
+* This project evaluates different chatbot models using the TOPSIS ranking method based on three key factors:
 
 Average Similarity Score - Measures how similar chatbot responses are.
 
 Inference Speed - Simulated processing speed of the model.
 
-Model Size - Simulated storage size of the model.
+Model Size - Simulated storage size of the model. *
 
 Models Used
 
